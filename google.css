@@ -1,0 +1,55 @@
+/* body{
+    background-color:rgb(63, 30, 30) ;
+}  */
+.firstdiv{
+    width: 20%;
+    /* background-color: pink; */
+    display: flex;
+    justify-content: space-around;
+    margin-left: 80%;
+}
+.my_account{
+    /* background-color: rgb(29, 33, 29); */
+    color: aliceblue;
+    text-align: center;
+    width: 40px;
+    height: 30px;
+    border-radius: 30%;
+    padding-top: 5px;
+}
+section{
+    margin-top: 160px; 
+    /* background-color: aqua; */
+    text-align: center;
+}
+/* .pos_1{
+    margin-top: 43px;
+    width: 18px;
+    height: 17px;
+    position: absolute;
+    padding-left: 30px;
+} */
+.firstinp{
+    padding-left: 79px;
+}
+/* .mic{
+    margin-top: 30px;
+    width: 16px;
+    height: 30px;
+} */
+input{
+    border-radius: 50px;
+    width: 590px;
+    height: 40px;
+    box-shadow: 2px 4px 10px gray;
+    border: none;
+    background-image: url(images/search.jpg),url(images/mic.jpg);
+    background-position: 99%,left center;
+    background-repeat: no-repeat;
+}
+
+.row{
+    display: flex;
+    justify-content: space-evenly; 
+    text-align: center; 
+}

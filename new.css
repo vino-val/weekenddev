@@ -1,0 +1,13 @@
+.basic{
+    background-color: brown;
+    height: 200px;
+    position: relative;
+
+}
+.basic_2{
+    background-color: chartreuse;
+    height: 40px;
+    width: 50px;
+    position: absolute;
+    bottom: 70%;
+}

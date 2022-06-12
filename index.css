@@ -1,0 +1,47 @@
+table,td,th{
+    border: 0.5px solid;
+  }
+  th{
+    background-color: orangered;
+  }
+  
+  tr{
+    background-color: burlywood;
+  }
+
+  th{
+      font-family: cursive;
+  }
+
+span{
+      color: red;
+}
+
+div{
+      background-color: bisque;
+      width: 45%;
+
+      margin-left: 250px;
+ }
+a{
+        font-style: italic;
+ }
+.landing{
+      color: blue;
+      text-decoration: none;
+}
+#firstid{
+    font-weight: 900;
+}
+.pos_1{
+  border-radius: 10px;
+
+}
+
+
+
+ 
+
+
+    
+

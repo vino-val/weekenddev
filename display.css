@@ -1,0 +1,32 @@
+body{
+    background-color: rgb(246, 139, 8);
+}
+/* p{
+    background-color: rgb(177, 232, 232);
+    display: inline;
+} */
+/* OR */
+/* }
+.first_flex{
+    background-color: aqua;
+    display: flex;
+    justify-content: space-evenly
+} */
+
+/* FOR GRID */
+
+
+p{
+    background-color: wheat
+}
+.first_flex{
+    /* display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    grid-template-rows: 1fr 1fr; */
+
+display: grid; 
+grid-template-columns: repeat(4, 1fr); 
+grid-template-rows: repeat(2, 1fr); 
+grid-column-gap: 2px;
+grid-row-gap: 2px; 
+}
